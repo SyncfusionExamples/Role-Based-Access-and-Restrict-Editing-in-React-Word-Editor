@@ -1,4 +1,4 @@
-// DocumentEditor.js
+// DocumentEditor.jsx
 import { useState, useEffect, useRef } from "react";
 import { DocumentEditorContainerComponent, Toolbar as DocumentEditorToolbar } from "@syncfusion/ej2-react-documenteditor";
 import { registerLicense } from "@syncfusion/ej2-base";
@@ -24,7 +24,6 @@ function DocumentEditor() {
   useEffect(() => {
     if (user && containerRef.current) {
       convertDocxToSfdt();
-      containerRef.current.documentEditor.open(JSON.stringify(defaultDocument));
       containerRef.current.documentEditor.documentName = "Document";
       containerRef.current.documentEditor.currentUser = user.email;
       titleBarRef.current = new TitleBar(
