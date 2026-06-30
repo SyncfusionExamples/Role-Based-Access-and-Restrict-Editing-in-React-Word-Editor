@@ -1,14 +1,14 @@
-# Role-Based Access and Restrict Editing in React Word Editor for Secure Document Workflows
+# Role-Based Access and Restrict Editing in React DOCX Editor (Document Editor) for Secure Document Workflows
 
-This repository demonstrates how to implement role-based access control and editing restrictions in a Word document using the Syncfusion React Word Document Editor (also known as the Word Processor). It showcases a secure document workflow where different users can edit only the sections relevant to their roles—ideal for collaborative environments such as vendor agreements, contracts, or internal documentation.
+This repository demonstrates how to implement role-based access control and editing restrictions in a Word document using the Syncfusion<sup style="font-size:70%">&reg;</sup> [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It showcases a secure document workflow where different users can edit only the sections relevant to their roles—ideal for collaborative environments such as vendor agreements, contracts, or internal documentation.
 
- # Resources 
+# Resources
 
-- **Product page:**   [Syncfusion® React Word Processor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor) 
+- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/react/getting-started) 
+- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://document.syncfusion.com/#/docx-editor-sdk) 
+- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
